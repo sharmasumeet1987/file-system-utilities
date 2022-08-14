@@ -1,0 +1,16 @@
+D:\backup\A5 2016\Card\Download,D:\sumeet\media\images\group\a5-2016\Card\Download
+D:\backup\A5 2016\Card\Images\WhatsApp Images,D:\sumeet\media\images\group\a5-2016\Card\WhatsApp\Images
+D:\backup\A5 2016\Card\Images\WhatsApp Images\Sent,D:\sumeet\media\images\group\a5-2016\Card\WhatsApp\Sent
+D:\backup\A5 2016\Card\Pictures\Images,D:\sumeet\media\images\group\a5-2016\Card\Images
+D:\backup\A5 2016\Card\Svaksh\Pics,D:\sumeet\media\images\group\a5-2016\Card\Svaksh
+D:\backup\A5 2016\Card\Svaksh\Pics all,D:\sumeet\media\images\group\a5-2016\Card\Svaksh
+D:\backup\A5 2016\Phone\DCIM\Camera,D:\sumeet\media\images\group\a5-2016\Phone\Camera
+D:\backup\A5 2016\Phone\DCIM\Facebook,D:\sumeet\media\images\group\a5-2016\Phone\Facebook
+D:\backup\A5 2016\Phone\DCIM\PhotoScan,D:\sumeet\media\images\group\a5-2016\Phone\Photoscan
+D:\backup\A5 2016\Phone\Download,D:\sumeet\media\images\group\a5-2016\Phone\Download
+D:\backup\A5 2016\Phone\olx,D:\sumeet\media\images\group\a5-2016\Phone\olx
+D:\backup\A5 2016\Phone\Pictures,D:\sumeet\media\images\group\a5-2016\Phone\Pics
+D:\backup\A5 2016\Phone\WhatsApp\Media\WallPaper,D:\sumeet\media\images\group\a5-2016\Phone\Whatsapp\Wallpapers
+D:\backup\A5 2016\Phone\WhatsApp\Media\WhatsApp Images,D:\sumeet\media\images\group\a5-2016\Phone\Whatsapp\Images
+D:\backup\A5 2016\Phone\WhatsApp\Media\WhatsApp Images\Sent,D:\sumeet\media\images\group\a5-2016\Whatsapp\Sent
+D:\backup\A5 2016\Phone\WhatsApp\Media\WhatsApp Profile Photos,D:\sumeet\media\images\group\a5-2016\Whatsapp\Profile Pics
